@@ -1,5 +1,5 @@
 # ns3_flowmonitor
-The video related to the source code is available at Youtube
+The video related to the source code is available at my Youtube Channel (https://www.youtube.com/tspradeepkumar) or else you can refer my blog at https://www.nsnam.com 
 
 https://youtu.be/VJBNnJ__ubM
 
